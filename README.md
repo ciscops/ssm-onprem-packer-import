@@ -1,7 +1,7 @@
 # ssm-onprem-packer-import
 
 This packer template will allow you to convert the Cisco Smart Software Manager On-Prem ISO to an AWS AMI.
-* Tested and with versions 7 and later
+* Tested successfully with versions 7 and later
 
 ## Prerequisites
 
